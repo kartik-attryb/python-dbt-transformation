@@ -14,7 +14,7 @@ venv/
 
 # VS Code settings
 .vscode/
-
+.cursor/
 # Mac OS
 .DS_Store
 
